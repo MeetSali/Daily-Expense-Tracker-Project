@@ -1,6 +1,6 @@
 # Daily-Expense-Tracker-Project
 
- How to run the Daily Expense Tracking System  Project
+How to run the Daily Expense Tracking System  Project
 1. Download the  zip file
 2. Extract the file and copy dets folder
 3.Paste inside root directory(for xampp xampp/htdocs)
@@ -11,4 +11,3 @@
 Credential for user panel  OR you can register your self:
 Username: testuser@gmail.com
 Password: Test @123
-
